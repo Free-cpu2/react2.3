@@ -1,0 +1,141 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  color: inherit;
+  list-style: none;
+  text-decoration: none;
+}
+
+.container {
+  padding: 20px 40px;
+  width: 85%;
+  margin: 0 auto;
+}
+
+.btn1 {
+  padding: 15px 10px;
+  border-radius: 5px;
+  border: none;
+  background-color: #4caf4f;
+  color: white;
+}
+ul {
+  gap: 20px;
+  display: flex;
+  font-weight: 500;
+  font-size: 20.34px;
+  line-height: 8.01px;
+  letter-spacing: 0%;
+  text-align: center;
+  align-items: center;
+}
+.nav {
+  display: flex;
+  justify-content: space-between;
+}
+
+li:hover {
+  text-decoration: underline;
+}
+
+span {
+  color: #4caf4f;
+}
+.header-text {
+  font-weight: 600;
+  font-size: 60.37px;
+  letter-spacing: 0%;
+  width: 419px;
+  padding-top: 101px;
+}
+.p1 {
+  color: grey;
+}
+.btn2 {
+  margin-top: 20px;
+  padding: 15px 20px;
+  border-radius: 5.34px;
+  background-color: #4caf4f;
+  color: white;
+  border: none;
+}
+.section-flex {
+  display: flex;
+  justify-content: space-between;
+}
+.img-div {
+  padding-top: 50px;
+}
+.div2 {
+  display: flex;
+  justify-content: center;
+  font-weight: 600;
+  font-size: 52.02px;
+  letter-spacing: 0%;
+  text-align: center;
+  color: #4d4d4d;
+}
+.div3 {
+  display: flex;
+  justify-content: center;
+  color: #717171;
+}
+.section-flex2 {
+  display: flex;
+  justify-content: space-around;
+  padding-top: 50px;
+}
+.div6 {
+  display: flex;
+  justify-content: center;
+  font-weight: 600;
+  font-size: 32px;
+  letter-spacing: 0%;
+  text-align: center;
+  color: #4d4d4d;
+  text-align: center;
+  padding-top: 50px;
+}
+.p5 {
+  width: 420px;
+}
+.card {
+  width: 280px;
+  height: 208px;
+  border-radius: 2.67px;
+}
+.card-text{
+  color: #4D4D4D;
+  font-size: 30px;
+  font-weight: 800;
+  text-align: center;
+}
+.card-img{
+  display: flex;
+  justify-content: center;
+}
+.card-text-p{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  font-size: 15px;
+}
+.div8{
+  display: flex;
+  justify-content: space-around;
+  padding-top: 100px;
+}
+h2{
+  color: #4D4D4D;
+  width: 800px;
+  font-size: 50px;
+}
+.div7{
+  width: 600px;
+  font-size: 20px;
+}
+.main-div-end{
+  display: flex;
+  justify-content: space-around;
+}
